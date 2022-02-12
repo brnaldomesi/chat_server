@@ -54,7 +54,7 @@
     "graphql"
   ],
   "dependencies": {
-    "ajv": "5.0.1",
+    "ajv": "6.12.3",
     "babel-plugin-inline-import": "^2.0.4",
     "babel-plugin-transform-decorators": "^6.24.1",
     "bluebird": "^3.5.0",
