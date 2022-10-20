@@ -76,7 +76,7 @@
     "http-status": "^1.0.1",
     "kexec": "3.0.0",
     "method-override": "^2.3.5",
-    "mongoose": "^4.9.7",
+    "mongoose": "^4.13.21",
     "morgan": "^1.8.1",
     "optics-agent": "^1.1.2",
     "subscriptions-transport-ws": "^0.6.0",
