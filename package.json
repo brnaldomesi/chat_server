@@ -63,7 +63,7 @@
     "cookie-parser": "^1.4.3",
     "cors": "^2.8.3",
     "debug": "^2.4.5",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "express-graphql": "^0.6.4",
     "express-jwt": "^5.3.0",
     "express-validation": "^1.0.2",
